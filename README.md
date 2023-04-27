@@ -1,3 +1,3 @@
-# jb-page
+# SW Maestro Mini Project
 
-Developer Blog made by JB
+This is repository for SW Maestro Mini Project!!

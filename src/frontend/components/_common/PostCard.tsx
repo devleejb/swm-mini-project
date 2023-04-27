@@ -57,11 +57,8 @@ const PostCard: FunctionComponent<PostCardProps> = (props) => {
             variant="body2"
             color="text.secondary"
             sx={{
-              display: "-webkit-box",
-              overflow: "hidden",
-              WebkitBoxOrient: "vertical",
-              WebkitLineClamp: 3,
               mt: 1,
+			  whiteSpace:"pre-wrap",
             }}
           >
             {data.description}
